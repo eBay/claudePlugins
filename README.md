@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
-A single repository to manage all Claude Code plugins.
+A single repository to manage all Claude Code plugins helpful to developers.
 
 ## Available Plugins
 
